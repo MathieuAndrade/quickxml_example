@@ -1,0 +1,26 @@
+<data>
+    <component>
+        <polyline>
+            <line_seg x="806.0000" y="3.0000"/>
+            <line_seg x="18.0000" y="3.0000"/>
+            <line_seg x="3.0000" y="5.0000"/>
+            <line_seg x="3.0000" y="77.0000"/>
+            <line_seg x="801.5000" y="77.0000"/>
+            <line_seg x="801.5000" y="57.0000"/>
+            <line_seg x="821.0000" y="57.0000"/>
+            <line_seg x="821.0000" y="5.0000"/>
+        </polyline>
+    </component>
+    <component>
+        <polyline>
+            <line_seg x="837.0000" y="33.0000"/>
+            <arc_seg x="807.0000" y="3.0000" i="807.0000" j="33.0000" cw="1"/>
+            <line_seg x="3.0000" y="3.0000"/>
+            <line_seg x="3.0000" y="315.2314"/>
+            <line_seg x="18.0000" y="315.2314"/>
+            <line_seg x="801.5000" y="167.3754"/>
+            <line_seg x="801.5000" y="148.5267"/>
+            <line_seg x="837.0000" y="148.5267"/>
+        </polyline>
+    </component>
+</data>
